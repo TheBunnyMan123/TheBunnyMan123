@@ -3,12 +3,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/github-breakout/images/breakout-dark.svg"
+      srcset="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/images/dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/github-breakout/images/breakout-light.svg"
+      srcset="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/images/light.svg"
     />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/github-breakout/images/breakout-light.svg" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/TheBunnyMan123/TheBunnyMan123/refs/heads/images/light.svg" />
   </picture>
 </center>
