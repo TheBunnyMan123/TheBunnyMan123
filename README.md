@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TheKillerBunny</h1>
+<h1 align="center">Hi 👋, I'm Solina</h1>
 <center>
   <picture>
     <source
